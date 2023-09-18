@@ -8,7 +8,7 @@ import Error from "./components/Error";
 import MovieDetails from "./components/MovieDetails";
 import Box from "./components/Box";
 
-const KEY = "f84fc31d";
+const KEY = "7e71879";
 
 export default function App() {
   const [watched, setWatched] = useState([]);
